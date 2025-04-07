@@ -1,0 +1,6 @@
+pandas~=2.2.3
+SQLAlchemy~=2.0.40
+matplotlib~=3.10.1
+pyspark~=3.0.3
+delta-spark~=2.2.0
+pyspark-stubs==3.0.0.post3
